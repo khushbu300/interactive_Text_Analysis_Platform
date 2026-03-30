@@ -3,7 +3,7 @@
 
 ## 📊 Project Summary
 
-Developed an interactive NLP-based text analysis system using Python and Streamlit, enabling users to analyze text data ither by directly entering text or by uploading a CSV file through sentiment analysis, emotion detection, tone classification, and summarization. Implemented advanced transformer models to process and extract meaningful insights from raw text in real time.
+#### Developed an interactive NLP-based text analysis system using Python and Streamlit, enabling users to analyze text data ither by directly entering text or by uploading a CSV file through sentiment analysis, emotion detection, tone classification, and summarization. Implemented advanced transformer models to process and extract meaningful insights from raw text in real time.
 ---
 
 ## 📌 Project Overview
